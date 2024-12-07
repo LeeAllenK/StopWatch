@@ -1,7 +1,7 @@
 
 <div id="header" >
- <h1  class="heading-element" dir="auto"</h1>
-<a href="https://i.imgur.com/qz7VCvZ.gif"></a>
+ <h1  class="heading-element" dir="auto" <a href="">Visit Here</a></h1>
+<img  src="https://i.imgur.com/qz7VCvZ.gif" alt='Stopwacth'/>
 
 </div>
 
