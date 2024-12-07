@@ -1,6 +1,6 @@
 
 <div id="header" >
- <h1  class="heading-element" dir="auto" <a href="">Visit Here</a></h1>
+ <h1  class="heading-element" dir="auto" <a href="">Visit Here</a>StopWatch</h1>
 <img  src="https://i.imgur.com/qz7VCvZ.gif" alt='Stopwacth'/>
 
 </div>
